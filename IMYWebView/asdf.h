@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface asdf : NSObject
-
+@property (nonatomic) NSInteger i;
 @end
