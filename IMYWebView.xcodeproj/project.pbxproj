@@ -18,6 +18,7 @@
 		36A5AE481B4627E100DF4CD0 /* IMYWebViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36A5AE471B4627E100DF4CD0 /* IMYWebViewTests.m */; };
 		36A5AE6A1B46282F00DF4CD0 /* IMYWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36A5AE531B46282F00DF4CD0 /* IMYWebView.m */; };
 		36A5AE711B462AE500DF4CD0 /* IMY_NJKWebViewProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 36A5AE701B462AE500DF4CD0 /* IMY_NJKWebViewProgress.m */; };
+		9CAE84031CF3FFF000759008 /* asdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CAE84021CF3FFF000759008 /* asdf.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		36A5AE531B46282F00DF4CD0 /* IMYWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMYWebView.m; sourceTree = "<group>"; };
 		36A5AE6F1B462AE500DF4CD0 /* IMY_NJKWebViewProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMY_NJKWebViewProgress.h; sourceTree = "<group>"; };
 		36A5AE701B462AE500DF4CD0 /* IMY_NJKWebViewProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMY_NJKWebViewProgress.m; sourceTree = "<group>"; };
+		9CAE84011CF3FFF000759008 /* asdf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = asdf.h; sourceTree = "<group>"; };
+		9CAE84021CF3FFF000759008 /* asdf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = asdf.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				36A5AE381B4627E100DF4CD0 /* Images.xcassets */,
 				36A5AE3A1B4627E100DF4CD0 /* LaunchScreen.xib */,
 				36A5AE281B4627E100DF4CD0 /* Supporting Files */,
+				9CAE84011CF3FFF000759008 /* asdf.h */,
+				9CAE84021CF3FFF000759008 /* asdf.m */,
 			);
 			path = IMYWebView;
 			sourceTree = "<group>";
@@ -254,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CAE84031CF3FFF000759008 /* asdf.m in Sources */,
 				36A5AE711B462AE500DF4CD0 /* IMY_NJKWebViewProgress.m in Sources */,
 				36A5AE341B4627E100DF4CD0 /* SecondViewController.m in Sources */,
 				36A5AE2E1B4627E100DF4CD0 /* AppDelegate.m in Sources */,
